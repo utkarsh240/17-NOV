@@ -26,3 +26,8 @@ int main()
     fin.close();
     return 0;
 }
+
+//OUTPUT
+Enter first name: utkarsh
+Enter last name: gupta
+utkarsh gupta
