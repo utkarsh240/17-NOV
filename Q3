@@ -66,3 +66,19 @@ int main()
     e2.putdata();
     return 0;
 }
+
+
+//OUTPUT
+
+Enter name of employee: dipti
+Enter age of employee: 19
+Enter grade of employee: C
+Enter code of employee: 305
+Enter salary of employee: 70000
+
+EMPLOYEE.dat
+Name of employee is: dipti
+Age of employee is: 19
+Grade of employee is: C
+Code of employee is: 305
+Salary of employee is: 70000
