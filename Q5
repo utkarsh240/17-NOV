@@ -42,6 +42,28 @@ int main()
     return 0;
 }
 
+//OUTPUT
+
+Enter details of student 1: 
+Enter name: utkarsh
+Enter roll: 525
+Enter branch: cse
+
+Enter details of student 2: 
+Enter name: dipti
+Enter roll: 305
+Enter branch: cse
+
+Details of student 1: 
+Name: dipti
+Roll: 305
+Branch: cse
+
+Details of student 2: 
+Name: utkarsh
+Roll: 525
+Branch: cse
+
 
 
 
