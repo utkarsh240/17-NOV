@@ -71,14 +71,14 @@ int main()
 //OUTPUT
 
 Enter name of employee: dipti
-Enter age of employee: 19
-Enter grade of employee: C
+Enter age of employee: 17
+Enter grade of employee: O
 Enter code of employee: 305
 Enter salary of employee: 70000
 
 EMPLOYEE.dat
 Name of employee is: dipti
-Age of employee is: 19
-Grade of employee is: C
+Age of employee is: 17
+Grade of employee is: O
 Code of employee is: 305
 Salary of employee is: 70000
